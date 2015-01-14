@@ -1,22 +1,24 @@
 # Title of your blog; shows in the header
-name: "CheerLabs"
+name: "hikari"
 
 # Description of your content (will only be used on Google Search)
-description: "CheerLabs blog"
+description: "Fluid, responsive blog theme for Jekyll"
 
 # Your name. Will show in your footer + sidebar 
 author: "John Doge"
 
-#url: "http://cheerlabs.com"
-baseurl: "/blog"
+url: "http://m3xm.github.io"
+baseurl: "/hikari-for-Jekyll"
 
 # A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words. 
 author-bio: "I'm a dog. I develop things. This is my blog so why don't you close this damn side panel (cursed by most UX Designers but I don't care, I do whatever I want) and start reading my awesome stuff?"
 
 # Social Accounts (mine, as placeholders)
 
-twitter: cheerlabs
-github: cheerlabs
+twitter: mx3m
+github: m3xm
+dribbble: m3xm
+instagram: m3xm
 
 # Google Analytics (you may want to changes these with yours or even delete :)
 
